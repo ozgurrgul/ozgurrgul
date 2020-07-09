@@ -10,7 +10,7 @@ Hi, my name is Ozgur and I'm a Software Engineer.
 ❤️ Interests:
 * Fintech, website builders, reverse engineering, sportsbook
 
-Mr projects:
+My projects:
 * ⛏ [Landly](https://landly.page) - build websites using sharable blocks
 * ⛏ [Sheetly](https://sheetly.page) - build websites from your Google Sheets
 
