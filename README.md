@@ -8,11 +8,7 @@ Hi, my name is Ozgur and I'm a Software Engineer.
 * Native Android Development
 
 ❤️ Interests:
-* Fintech, website builders, reverse engineering, sportsbook
-
-My projects:
-* ⛏ [Landly](https://landly.page) - build websites using sharable blocks
-* ⛏ [WorkClever](https://workclever.net) - kanban board to manage your projects ([Source](https://github.com/workclever))
+* Fintech, website builders, reverse engineering, sportsbook, anything realtime and challenging
 
 🐦 My social media
 * [Twitter](https://twitter.com/ozgurrgul)
