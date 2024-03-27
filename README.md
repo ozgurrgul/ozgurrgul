@@ -7,6 +7,11 @@ Hi, my name is Ozgur and I'm a Software Engineer.
 * Bitcoin Core, Etherum Web3
 * Native Android Development
 
+❤️ Some side projects:
+* https://unifiedx.vercel.app/
+* https://uistuff.vercel.app/
+* https://github0.com/
+
 ❤️ Interests:
 * Fintech, website builders, reverse engineering, sportsbook, anything realtime and challenging
 
