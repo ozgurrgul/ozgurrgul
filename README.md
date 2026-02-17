@@ -1,7 +1,8 @@
-Hi, my name is Ozgur and I'm a Senior Product Engineer.
+Hi, my name is Ozgur and I'm a Senior Product Engineer
 
 ⚙️ Here is what I do:
 
+* Frontend development via React, React-native, Vue
 * Nodejs, Nestjs, React, Nextjs, Vue, Angular, Net Core, SQL, NoSQL, GraphQL, Maps
 * Kafka, Redis, Ignite, RabbitMQ
 * Bitcoin Core, Etherum, Web3, Solana, WalletConnect, AppKit, Phantom
